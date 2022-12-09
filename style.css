@@ -1,0 +1,68 @@
+ @import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Zen Dots';
+}
+
+.form {
+   width: 280px;
+   margin: auto;
+}
+
+.form-button {
+    background-color: red;
+    border: none;
+    width: 100%;
+    display: block;
+    color: white;
+    padding: 6px 0;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 13px;
+}
+
+.form-input {
+    display: block;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 8px 16px;
+    border: none;
+    border-bottom: 2px solid rgb(194, 194, 194);
+}
+
+.form-input:focus {
+    outline: none;
+}
+
+.inputs {
+    display: flex;
+}
+
+.Ілля пиши тут {
+    font-family:'Zen Dots';
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.form2 {
+    width: 280px;
+   margin: auto;
+   display: flex;
+   gap: 20px;
+}
+
+.form-button2 {
+    background-color: red;
+    border: none;
+    width: 100%;
+    display: block;
+    color: white;
+    padding: 6px 0;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 13px;
+}
